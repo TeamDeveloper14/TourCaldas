@@ -92,7 +92,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/img_bg_1.jpg);">
+			   	<li style="background-image: url(img/img-banners/img2.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -105,7 +105,7 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/img_bg_2.jpg);">
+			   	<li style="background-image:url(img/img-banners/img3.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -355,7 +355,7 @@
 							<div class="owl-carousel">
 								<div class="item">
 									<div class="hotel-entry">
-										<a href="hotels.html" class="hotel-img" style="background-image: url(images/img4.jpg);">
+										<a href="hotels.html" class="hotel-img" style="background-image: url(img/img-generales/img-propias/slider-inicial/img4.jpg);">
 											<p class="price"><span>$120</span><small> /night</small></p>
 										</a>
 										<div class="desc">
@@ -394,7 +394,7 @@
 								</div>
 								<div class="item">
 									<div class="hotel-entry">
-										<a href="hotels.html" class="hotel-img" style="background-image: url(images/img-5.jpg);">
+										<a href="hotels.html" class="hotel-img" style="background-image: url(img/img-generales/img-propias/slider-inicial/img-5.jpg);">
 											<p class="price"><span>$120</span><small> /night</small></p>
 										</a>
 										<div class="desc">
