@@ -341,6 +341,7 @@
 		</div>
 		<!-- Carrusel inicial [Mauricio]  -->
 		<section>
+		
 			<div id="colorlib-hotel" style="padding:0px;">
 				<div class="container">
 					<div class="row">
