@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Tour Template</title>
+	<title>Plantilla prueba</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -68,9 +68,9 @@
 						</div>
 						<div class="col-xs-10 text-right menu-1">
 							<ul>
-								<li class="active"><a href="index.html">Home</a></li>
+								<li class="active"><a href="index.html">Inicio</a></li>
 								<li class="has-dropdown">
-									<a href="tours.html">Tours</a>
+									<a href="tours.html">turs</a>
 									<ul class="dropdown">
 										<li><a href="#">Destino</a></li>
 										<li><a href="#">Cruises</a></li>
@@ -79,10 +79,10 @@
 									</ul>
 								</li>
 								<li><a href="hotels.html">Hotels</a></li>
-								<li><a href="services.html">Services</a></li>
+								<li><a href="services.html">servicios</a></li>
 								<li><a href="blog.html">Blog</a></li>
 								<li><a href="about.html">About</a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="contact.html">Contactenos</a></li>
 							</ul>
 						</div>
 					</div>
@@ -92,7 +92,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/img_bg_1.jpg);">
+			   	<li style="background-image: url(img/img-banners/img2.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -105,7 +105,7 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/img_bg_2.jpg);">
+			   	<li style="background-image:url(img/img-banners/img3.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -339,69 +339,70 @@
 				</div>
 			</div>
 		</div>
+		<!-- Carrusel inicial [Mauricio]  -->
+		<section>
 		
-		
-		
-		<div id="colorlib-hotel" style="padding:0px;">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
-						<h2>Recommended Hotels</h2>
-						<p>We love to tell our successful far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+			<div id="colorlib-hotel" style="padding:0px;">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
+							<h2>Recommended Hotels</h2>
+							<p>We love to tell our successful far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+						</div>
 					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-12 animate-box">
-						<div class="owl-carousel">
-							<div class="item">
-								<div class="hotel-entry">
-									<a href="hotels.html" class="hotel-img" style="background-image: url(images/img4.jpg);">
-										<p class="price"><span>$120</span><small> /night</small></p>
-									</a>
-									<div class="desc">
-										<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
-										<h3><a href="#">Hotel Edison</a></h3>
-										<span class="place">New York, USA</span>
-										<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+					<div class="row">
+						<div class="col-md-12 animate-box">
+							<div class="owl-carousel">
+								<div class="item">
+									<div class="hotel-entry">
+										<a href="hotels.html" class="hotel-img" style="background-image: url(img/img-generales/img-propias/slider-inicial/img4.jpg);">
+											<p class="price"><span>$120</span><small> /night</small></p>
+										</a>
+										<div class="desc">
+											<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
+											<h3><a href="#">Hotel Edison</a></h3>
+											<span class="place">New York, USA</span>
+											<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="item">
-								<div class="hotel-entry">
-									<a href="hotels.html" class="hotel-img" style="background-image: url(images/hotel-2.jpg);">
-										<p class="price"><span>$120</span><small> /night</small></p>
-									</a>
-									<div class="desc">
-										<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
-										<h3><a href="#">Hotel Edison</a></h3>
-										<span class="place">New York, USA</span>
-										<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+								<div class="item">
+									<div class="hotel-entry">
+										<a href="hotels.html" class="hotel-img" style="background-image: url(images/img5.jpg);">
+											<p class="price"><span>$120</span><small> /night</small></p>
+										</a>
+										<div class="desc">
+											<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
+											<h3><a href="#">Hotel Edison</a></h3>
+											<span class="place">New York, USA</span>
+											<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="item">
-								<div class="hotel-entry">
-									<a href="hotels.html" class="hotel-img" style="background-image: url(images/hotel-3.jpg);">
-										<p class="price"><span>$120</span><small> /night</small></p>
-									</a>
-									<div class="desc">
-										<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
-										<h3><a href="#">Hotel Edison</a></h3>
-										<span class="place">New York, USA</span>
-										<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+								<div class="item">
+									<div class="hotel-entry">
+										<a href="hotels.html" class="hotel-img" style="background-image: url(images/hotel-3.jpg);">
+											<p class="price"><span>$120</span><small> /night</small></p>
+										</a>
+										<div class="desc">
+											<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
+											<h3><a href="#">Hotel Edison</a></h3>
+											<span class="place">New York, USA</span>
+											<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="item">
-								<div class="hotel-entry">
-									<a href="hotels.html" class="hotel-img" style="background-image: url(images/img-5.jpg);">
-										<p class="price"><span>$120</span><small> /night</small></p>
-									</a>
-									<div class="desc">
-										<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
-										<h3><a href="#">Hotel Edison</a></h3>
-										<span class="place">New York, USA</span>
-										<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+								<div class="item">
+									<div class="hotel-entry">
+										<a href="hotels.html" class="hotel-img" style="background-image: url(img/img-generales/img-propias/slider-inicial/img-5.jpg);">
+											<p class="price"><span>$120</span><small> /night</small></p>
+										</a>
+										<div class="desc">
+											<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
+											<h3><a href="#">Hotel Edison</a></h3>
+											<span class="place">New York, USA</span>
+											<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+										</div>
 									</div>
 								</div>
 							</div>
@@ -409,7 +410,8 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</section>
+		
 <!--
 		<div id="colorlib-services">
 			<div class="container">
