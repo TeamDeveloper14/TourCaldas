@@ -604,7 +604,7 @@
 
 <!-- video corporactivo [Mauricio] -->
 <section>
-<div id="colorlib-intro" class="intro-img" style="background-image: url(images/cover-img-1.jpg);" data-stellar-background-ratio="0.5">
+<div id="colorlib-intro" class="intro-img" style="background-image: url(img/img-generales/img-propias/img-catalog/img8.jpg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -623,16 +623,16 @@
 								</div>
 								<div class="text-rights">
 									<h3 class="title">Date prisa oferta limitada!</h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-									<p><a href="#" class="btn btn-primary">Book Now</a> <a href="#" class="btn btn-primary btn-outline">Read more</a></p>
+									<p>Las mejores ofertas en alojamientos tors y alimentacion</p>
+									<!-- <p><a href="#" class="btn btn-primary">Book Now</a> <a href="#" class="btn btn-primary btn-outline">Read more</a></p> -->
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-6 animate-box">
 						<div class="video-wrap">
-							<div class="video colorlib-video" style="background-image: url(images/img_bg_2.jpg);">
-								<a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video"></i></a>
+							<div class="video colorlib-video" style="background-image: url(img/img-generales/img-propias/img-catalog/img8.jpg);">
+								<a href="https://www.youtube.com/watch?v=gIXWXE-qhsk" class="popup-vimeo"><i class="icon-video"></i></a>
 								<div class="video-overlay"></div>
 							</div>
 						</div>
