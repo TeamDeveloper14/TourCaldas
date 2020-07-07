@@ -616,13 +616,13 @@
 										<div class="sale-box-top">
 											<h2 class="number">45</h2>
 											<span class="sup-1">%</span>
-											<span class="sup-2">Off</span>
+											<span class="sup-2"></span>
 										</div>
-										<h2 class="text-sale">Sale</h2>
+										<h2 class="text-sale">Rebaja</h2>
 									</div>
 								</div>
 								<div class="text-rights">
-									<h3 class="title">Just hurry up limited offer!</h3>
+									<h3 class="title">Date prisa oferta limitada!</h3>
 									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 									<p><a href="#" class="btn btn-primary">Book Now</a> <a href="#" class="btn btn-primary btn-outline">Read more</a></p>
 								</div>
