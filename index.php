@@ -66,16 +66,16 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-xs-2">
-                            <div id="colorlib-logo"><a href="index.html">Tour</a></div>
+                            <!--   <div id="colorlib-logo"><a href="index.html">Tour</a></div> -->
                         </div>
                         <div class="col-xs-10 text-right menu-1">
                             <ul>
-                                <li class="active"><a href="index.html">Inicio</a></li>
+                                <li class="active"><a href="index.php">Inicio</a></li>
                                 <li class="has-dropdown">
-                                    <a href="tours.html">turs</a>
+                                    <a href="tours.html">Excusiones</a>
                                     <ul class="dropdown">
                                         <li><a href="#">Destino</a></li>
-                                        <li><a href="#">Cruises</a></li>
+                                        <li><a href="#">Otros</a></li>
                                         <li><a href="#">Hoteles</a></li>
                                         <li><a href="#">Reservas</a></li>
                                     </ul>
@@ -100,7 +100,7 @@
                             <div class="row">
                                 <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12 slider-text">
                                     <div class="slider-text-inner text-center">
-                                        <h2>Escoja los dias de Tour</h2>
+                                        <h2>Escoja los dias de Excursiones</h2>
                                         <h1>Inicie su visita por el eje Cafetero</h1>
                                     </div>
                                 </div>
@@ -139,7 +139,7 @@
                             <div class="row">
                                 <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12 slider-text">
                                     <div class="slider-text-inner text-center">
-                                        <h2>Experience the</h2>
+                                        <h2>La Mejor experiencia</h2>
                                         <h1>El mejor viaje de todos</h1>
                                     </div>
                                 </div>
@@ -336,10 +336,10 @@
                                                 <i class="icon icon-arrow-down3"></i>
                                                 <select name="category" id="category" class="form-control">
                                                     <option value="#">Suite</option>
-                                                    <option value="#">Super Deluxe</option>
-                                                    <option value="#">Balcony</option>
-                                                    <option value="#">Economy</option>
-                                                    <option value="#">Luxury</option>
+                                                    <option value="#">Super de lujo</option>
+                                                    <option value="#">Con balcon</option>
+                                                    <option value="#">Económica</option>
+                                                    <option value="#">De Lujo</option>
                                                 </select>
                                             </div>
                                         </div>
