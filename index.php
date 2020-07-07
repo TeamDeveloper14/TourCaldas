@@ -165,33 +165,33 @@
 				              	<div class="row">
 				              	 <div class="col-md-3">
 				              	 	<div class="form-group">
-				                    <label for="date">Where:</label>
+				                    <label for="date">Donde:</label>
 				                    <div class="form-field">
-				                      <input type="text" id="location" class="form-control" placeholder="Search Location">
+				                      <input type="text" id="location" class="form-control" placeholder="Buscar ubicación">
 				                    </div>
 				                  </div>
 				              	 </div>
 				                <div class="col-md-2">
 				                  <div class="form-group">
-				                    <label for="date">Check-in:</label>
+				                    <label for="date">Fecha registro :</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-calendar2"></i>
-				                      <input type="text" id="date" class="form-control date" placeholder="Check-in date">
+				                      <input type="text" id="date" class="form-control date" placeholder="Fecha">
 				                    </div>
 				                  </div>
 				                </div>
 				                <div class="col-md-2">
 				                  <div class="form-group">
-				                    <label for="date">Check-out:</label>
+				                    <label for="date">Fecha salida:</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-calendar2"></i>
-				                      <input type="text" id="date" class="form-control date" placeholder="Check-out date">
+				                      <input type="text" id="date" class="form-control date" placeholder="Revisa fecha">
 				                    </div>
 				                  </div>
 				                </div>
 				                <div class="col-md-3">
 				                  <div class="form-group">
-				                    <label for="guests">Guest</label>
+				                    <label for="guests">Huespedes</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-arrow-down3"></i>
 				                      <select name="people" id="people" class="form-control">
@@ -205,7 +205,7 @@
 				                  </div>
 				                </div>
 				                <div class="col-md-2">
-				                  <input type="submit" name="submit" id="submit" value="Find Flights" class="btn btn-primary btn-block">
+				                  <input type="submit" name="submit" id="submit" value="Encontrar Fincas" class="btn btn-primary btn-block">
 				                </div>
 				              </div>
 				            </form>
@@ -215,31 +215,31 @@
 				              	<div class="row">
 				              	 <div class="col-md-2">
 				              	 	<div class="booknow">
-				              	 		<h2>Book Now</h2>
-					              	 	<span>Best Price Online</span>
+				              	 		<h2>Reservar</h2>
+					              	 	<span>Mejores precios en línea</span>
 				              	 	</div>
 				              	 </div>
 				                <div class="col-md-3">
 				                  <div class="form-group">
-				                    <label for="date">Check-in:</label>
+				                    <label for="date">Registrarse:</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-calendar2"></i>
-				                      <input type="text" id="date" class="form-control date" placeholder="Check-in date">
+				                      <input type="text" id="date" class="form-control date" placeholder="Fecha registro">
 				                    </div>
 				                  </div>
 				                </div>
 				                <div class="col-md-3">
 				                  <div class="form-group">
-				                    <label for="date">Check-out:</label>
+				                    <label for="date">fecha salida:</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-calendar2"></i>
-				                      <input type="text" id="date" class="form-control date" placeholder="Check-out date">
+				                      <input type="text" id="date" class="form-control date" placeholder="Fecha ">
 				                    </div>
 				                  </div>
 				                </div>
 				                <div class="col-md-2">
 				                  <div class="form-group">
-				                    <label for="guests">Guest</label>
+				                    <label for="guests">Huespedes</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-arrow-down3"></i>
 				                      <select name="people" id="people" class="form-control">
@@ -253,7 +253,7 @@
 				                  </div>
 				                </div>
 				                <div class="col-md-2">
-				                  <input type="submit" name="submit" id="submit" value="Find Hotel" class="btn btn-primary btn-block">
+				                  <input type="submit" name="submit" id="submit" value="Buscar Hotel" class="btn btn-primary btn-block">
 				                </div>
 				              </div>
 				            </form>
@@ -263,32 +263,32 @@
 				              	<div class="row">
 				              	 <div class="col-md-4">
 				              	 	<div class="form-group">
-				                    <label for="date">Where:</label>
+				                    <label for="date">Donde:</label>
 				                    <div class="form-field">
-				                      <input type="text" id="location" class="form-control" placeholder="Search Location">
+				                      <input type="text" id="location" class="form-control" placeholder="Buscar ubicación">
 				                    </div>
 				                  </div>
 				              	 </div>
 				                <div class="col-md-3">
 				                  <div class="form-group">
-				                    <label for="date">Start Date:</label>
+				                    <label for="date">Fecha inicio:</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-calendar2"></i>
-				                      <input type="text" id="date" class="form-control date" placeholder="Check-in date">
+				                      <input type="text" id="date" class="form-control date" placeholder="Revisar fecha">
 				                    </div>
 				                  </div>
 				                </div>
 				                <div class="col-md-3">
 				                  <div class="form-group">
-				                    <label for="date">Return Date:</label>
+				                    <label for="date">Fecha regreso:</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-calendar2"></i>
-				                      <input type="text" id="date" class="form-control date" placeholder="Check-out date">
+				                      <input type="text" id="date" class="form-control date" placeholder="Fecha regreso">
 				                    </div>
 				                  </div>
 				                </div>
 				                <div class="col-md-2">
-				                  <input type="submit" name="submit" id="submit" value="Find Car" class="btn btn-primary btn-block">
+				                  <input type="submit" name="submit" id="submit" value="Encontrar vehiculo" class="btn btn-primary btn-block">
 				                </div>
 				              </div>
 				            </form>
@@ -298,24 +298,24 @@
 				              	<div class="row">
 				              	 <div class="col-md-4">
 				              	 	<div class="form-group">
-				                    <label for="date">Where:</label>
+				                    <label for="date">Donde:</label>
 				                    <div class="form-field">
-				                      <input type="text" id="location" class="form-control" placeholder="Search Location">
+				                      <input type="text" id="location" class="form-control" placeholder="Buscar ubicación">
 				                    </div>
 				                  </div>
 				              	 </div>
 				                <div class="col-md-3">
 				                  <div class="form-group">
-				                    <label for="date">Start Date:</label>
+				                    <label for="date">Fecha inicio:</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-calendar2"></i>
-				                      <input type="text" id="date" class="form-control date" placeholder="Check-in date">
+				                      <input type="text" id="date" class="form-control date" placeholder="Fecha inicio">
 				                    </div>
 				                  </div>
 				                </div>
 				                <div class="col-md-3">
 				                  <div class="form-group">
-				                    <label for="guests">Categories</label>
+				                    <label for="guests">Categorias</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-arrow-down3"></i>
 				                      <select name="category" id="category" class="form-control">
@@ -329,7 +329,7 @@
 				                  </div>
 				                </div>
 				                <div class="col-md-2">
-				                  <input type="submit" name="submit" id="submit" value="Find Cruises" class="btn btn-primary btn-block">
+				                  <input type="submit" name="submit" id="submit" value="Encontrar cruceros" class="btn btn-primary btn-block">
 				                </div>
 				              </div>
 				            </form>
