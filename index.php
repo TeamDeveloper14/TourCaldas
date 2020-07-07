@@ -153,9 +153,9 @@
 					<div class="search-wrap">
 						<div class="container">
 							<ul class="nav nav-tabs">
-								<li class="active"><a data-toggle="tab" href="#flight"><i class="fas fa-car"></i> Finca</a></li>
+								<li class="active"><a data-toggle="tab" href="#flight"><i class="fa fa-mountain"></i> Finca</a></li>
 								<li><a data-toggle="tab" href="#hotel"><i class="flaticon-resort"></i> Hotel</a></li>
-								<li><a data-toggle="tab" href="#car"><i class="flaticon-car"></i> Car Rent</a></li>
+								<li><a data-toggle="tab" href="#car"><i class="fas fa-car"></i> Car Rent</a></li>
 								<li><a data-toggle="tab" href="#cruises"><i class="flaticon-boat"></i> Cruises</a></li>
 							</ul>
 						</div>
