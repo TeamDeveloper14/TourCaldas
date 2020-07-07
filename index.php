@@ -92,7 +92,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(img/img-banners/img2.jpg);">
+			   	<li style="background-image: url(https://hkmtravel.com/wp-content/uploads/2017/04/Viajar-eje-cafetero-HKM-800x533.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
