@@ -341,13 +341,12 @@
 		</div>
 		<!-- Carrusel inicial [Mauricio]  -->
 		<section>
-		
 			<div id="colorlib-hotel" style="padding:0px;">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
-							<h2>Recommended Hotels</h2>
-							<p>We love to tell our successful far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<h2>Hoteles Recomendados</h2>
+							<p>Disfruta de los mejores descuentos</p>
 						</div>
 					</div>
 					<div class="row">
@@ -355,53 +354,53 @@
 							<div class="owl-carousel">
 								<div class="item">
 									<div class="hotel-entry">
+										<a href="hotels.html" class="hotel-img" style="background-image: url(img/img-generales/img-propias/slider-inicial/img1.jpg);">
+											<p class="price"><span>$120</span><small> /Noche</small></p>
+										</a>
+										<div class="desc">
+											<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span></p>
+											<h3><a href="#">Finca la Pajita</a></h3>
+											<span class="place">Eje Cafetero, Colombia</span>
+											<p>Fican la Pajita presta el servicio de alojamiento en Casa campestre de 2 niveles</p>
+										</div>
+									</div>
+								</div>
+								<div class="item">
+									<div class="hotel-entry">
+										<a href="hotels.html" class="hotel-img" style="background-image: url(img/img-generales/img-propias/slider-inicial/img2.jpg);">
+											<p class="price"><span>$120</span><small> /Noche</small></p>
+										</a>
+										<div class="desc">
+											<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span></p>
+											<h3><a href="#">Finca El encanto </a></h3>
+											<span class="place">Eje Cafetero, Colombia</span>
+											<p>Finca El encanto presta el servicio de alojamiento en Casa campestre de 2 niveles</p>
+										</div>
+									</div>
+								</div>
+								<div class="item">
+									<div class="hotel-entry">
+										<a href="hotels.html" class="hotel-img" style="background-image:  url(img/img-generales/img-propias/slider-inicial/img3.jpg);">
+											<p class="price"><span>$120</span><small> /Noche</small></p>
+										</a>
+										<div class="desc">
+											<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span></p>
+											<h3><a href="#">Tours Eje cafetero</a></h3>
+											<span class="place">Eje Cafetero, Colombia</span>
+											<p>Esta Reserva Natural recibe a profesionales y aficionados del mundo de las aves.</p>
+										</div>
+									</div>
+								</div>
+								<div class="item">
+									<div class="hotel-entry">
 										<a href="hotels.html" class="hotel-img" style="background-image: url(img/img-generales/img-propias/slider-inicial/img4.jpg);">
-											<p class="price"><span>$120</span><small> /night</small></p>
+											<p class="price"><span>$120</span><small> /Noche</small></p>
 										</a>
 										<div class="desc">
-											<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
-											<h3><a href="#">Hotel Edison</a></h3>
-											<span class="place">New York, USA</span>
-											<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-										</div>
-									</div>
-								</div>
-								<div class="item">
-									<div class="hotel-entry">
-										<a href="hotels.html" class="hotel-img" style="background-image: url(images/img5.jpg);">
-											<p class="price"><span>$120</span><small> /night</small></p>
-										</a>
-										<div class="desc">
-											<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
-											<h3><a href="#">Hotel Edison</a></h3>
-											<span class="place">New York, USA</span>
-											<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-										</div>
-									</div>
-								</div>
-								<div class="item">
-									<div class="hotel-entry">
-										<a href="hotels.html" class="hotel-img" style="background-image: url(images/hotel-3.jpg);">
-											<p class="price"><span>$120</span><small> /night</small></p>
-										</a>
-										<div class="desc">
-											<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
-											<h3><a href="#">Hotel Edison</a></h3>
-											<span class="place">New York, USA</span>
-											<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-										</div>
-									</div>
-								</div>
-								<div class="item">
-									<div class="hotel-entry">
-										<a href="hotels.html" class="hotel-img" style="background-image: url(img/img-generales/img-propias/slider-inicial/img-5.jpg);">
-											<p class="price"><span>$120</span><small> /night</small></p>
-										</a>
-										<div class="desc">
-											<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
-											<h3><a href="#">Hotel Edison</a></h3>
-											<span class="place">New York, USA</span>
-											<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+											<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span></p>
+											<h3><a href="#">Finca el cielo</a></h3>
+											<span class="place">Eje Cafetero, Colombia</span>
+											<p>Finca El encanto presta el servicio de alojamiento en Casa campestre de 2 niveles</p>
 										</div>
 									</div>
 								</div>
@@ -410,8 +409,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
-		
+		</section>	
 <!--
 		<div id="colorlib-services">
 			<div class="container">
@@ -603,7 +601,10 @@
 			</div>
 		</div>
 -->
-		<div id="colorlib-intro" class="intro-img" style="background-image: url(images/cover-img-1.jpg);" data-stellar-background-ratio="0.5">
+
+<!-- video corporactivo [Mauricio] -->
+<section>
+<div id="colorlib-intro" class="intro-img" style="background-image: url(images/cover-img-1.jpg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -639,57 +640,8 @@
 				</div>
 			</div>
 		</div>
-
-
-
-		<div id="colorlib-testimony" class="colorlib-light-grey">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
-						<h2>Our Satisfied Guests says</h2>
-						<p>We love to tell our successful far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-8 col-md-offset-2 animate-box">
-						<div class="owl-carousel2">
-							<div class="item">
-								<div class="testimony text-center">
-									<span class="img-user" style="background-image: url(images/person1.jpg);"></span>
-									<span class="user">Alysha Myers</span>
-									<small>Miami Florida, USA</small>
-									<blockquote>
-										<p>" A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-									</blockquote>
-								</div>
-							</div>
-							<div class="item">
-								<div class="testimony text-center">
-									<span class="img-user" style="background-image: url(images/person2.jpg);"></span>
-									<span class="user">James Fisher</span>
-									<small>New York, USA</small>
-									<blockquote>
-										<p>One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-									</blockquote>
-								</div>
-							</div>
-							<div class="item">
-								<div class="testimony text-center">
-									<span class="img-user" style="background-image: url(images/person3.jpg);"></span>
-									<span class="user">Jacob Webb</span>
-									<small>Athens, Greece</small>
-									<blockquote>
-										<p>Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.</p>
-									</blockquote>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="colorlib-tour">
+</section>
+		<!-- <div class="colorlib-tour">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
@@ -863,7 +815,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 
 <!--  Seccion video
 <div class="container-fluid fh5co_video_news_bg pb-4">
