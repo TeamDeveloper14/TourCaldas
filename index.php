@@ -120,7 +120,7 @@
                             </div>
                         </div>
                     </li>
-                    <li style="background-image: url(images/img_bg_5.jpg);">
+                    <li style="background-image: url(img/img-banners/imagen3.jpg);">
                         <div class="overlay"></div>
                         <div class="container-fluids">
                             <div class="row">
@@ -133,7 +133,7 @@
                             </div>
                         </div>
                     </li>
-                    <li style="background-image: url(images/img_bg_4.jpg);">
+                    <li style="background-image: url(img/img-banners/imagen4.jpg);">
                         <div class="overlay"></div>
                         <div class="container-fluid">
                             <div class="row">
