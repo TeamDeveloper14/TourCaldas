@@ -153,7 +153,7 @@
 					<div class="search-wrap">
 						<div class="container">
 							<ul class="nav nav-tabs">
-								<li class="active"><a data-toggle="tab" href="#flight"><i class="flaticon-plane"></i> Finca</a></li>
+								<li class="active"><a data-toggle="tab" href="#flight"><i class="fas fa-car"></i> Finca</a></li>
 								<li><a data-toggle="tab" href="#hotel"><i class="flaticon-resort"></i> Hotel</a></li>
 								<li><a data-toggle="tab" href="#car"><i class="flaticon-car"></i> Car Rent</a></li>
 								<li><a data-toggle="tab" href="#cruises"><i class="flaticon-boat"></i> Cruises</a></li>
@@ -467,7 +467,7 @@
 			-->
 			<div class="tour-wrap">
 				<a href="#" class="tour-entry animate-box">
-					<div class="tour-img" style="background-image: url(images/tour-1.jpg);">
+					<div class="tour-img" style="background-image: url(img/img-generales/img-propias/img-catalog/img1.jpg);">
 					</div>
 					<span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -477,7 +477,7 @@
 					</span>
 				</a>
 				<a href="#" class="tour-entry animate-box">
-					<div class="tour-img" style="background-image: url(images/tour-2.jpg);">
+					<div class="tour-img" style="background-image: url(img/img-generales/img-propias/img-catalog/img2.jpg);">
 					</div>
 					<span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -487,7 +487,7 @@
 					</span>
 				</a>
 				<a href="#" class="tour-entry animate-box">
-					<div class="tour-img" style="background-image: url(images/tour-3.jpg);">
+					<div class="tour-img" style="background-image: url(img/img-generales/img-propias/img-catalog/img3.jpg);">
 					</div>
 					<span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -497,7 +497,7 @@
 					</span>
 				</a>
 				<a href="#" class="tour-entry animate-box">
-					<div class="tour-img" style="background-image: url(images/tour-4.jpg);">
+					<div class="tour-img" style="background-image: url(img/img-generales/img-propias/img-catalog/img4.jpg);">
 					</div>
 					<span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -507,7 +507,7 @@
 					</span>
 				</a>
 				<a href="#" class="tour-entry animate-box">
-					<div class="tour-img" style="background-image: url(images/tour-5.jpg);">
+					<div class="tour-img" style="background-image: url(img/img-generales/img-propias/img-catalog/img5.jpg);">
 					</div>
 					<span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -517,7 +517,7 @@
 					</span>
 				</a>
 				<a href="#" class="tour-entry animate-box">
-					<div class="tour-img" style="background-image: url(images/tour-6.jpg);">
+					<div class="tour-img" style="background-image: url(img/img-generales/img-propias/img-catalog/img6.jpg);">
 					</div>
 					<span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -527,7 +527,7 @@
 					</span>
 				</a>
 				<a href="#" class="tour-entry animate-box">
-					<div class="tour-img" style="background-image: url(images/tour-7.jpg);">
+					<div class="tour-img" style="background-image: url(img/img-generales/img-propias/img-catalog/img7.jpg);">
 					</div>
 					<span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -537,7 +537,7 @@
 					</span>
 				</a>
 				<a href="#" class="tour-entry animate-box">
-					<div class="tour-img" style="background-image: url(images/tour-8.jpg);">
+					<div class="tour-img" style="background-image: url(img/img-generales/img-propias/img-catalog/img8.jpg);">
 					</div>
 					<span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -1047,6 +1047,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<script src="js/jquery.stellar.min.js"></script>
 	<!-- Main -->
 	<script src="js/main.js"></script>
+	 <!-- Fonwaseme -->
+	<script src="https://kit.fontawesome.com/2c5c3bec73.js "></script>
 
 	</body>
 </html>
