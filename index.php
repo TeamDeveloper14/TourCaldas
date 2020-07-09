@@ -370,11 +370,15 @@
         <div id="colorlib-hotel" style="padding:0px;">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
+                    <!-- <div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
                         <h2>Hoteles Recomendados</h2>
                         <p>Disfruta de los mejores descuentos</p>
-                    </div>
+                    </div> -->
                 </div>
+                <br>
+                <div class="col-md-12 col-md-offset-0 heading2 animate-box">
+                    <h2 class="text-center">Hoteles Recomendados</h2>
+                    </div>
                 <div class="row">
                     <div class="col-md-12 animate-box">
                         <div class="owl-carousel">
@@ -496,7 +500,10 @@
 			</div>
 		</div>
 -->
-
+<br>
+                <div class="col-md-12 col-md-offset-0 heading2 animate-box">
+                    <h2 class="text-center">Fincas destacadas</h2>
+                    </div>
 <!-- Seccion Galeria Principal contiene todo el contenido de imagenes de la galeria principal [Mauricio: 08/07/2020] -->
     <section>
     <div class="colorlib-tour colorlib-light-grey">
