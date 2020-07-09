@@ -72,7 +72,7 @@
                             <ul>
                                 <li class="active"><a href="index.php">Inicio</a></li>
                                 <li class="has-dropdown">
-                                    <a href="tours.html">Excusiones</a>
+                                    <a href="tours.html">Excursiones</a>
                                     <ul class="dropdown">
                                         <li ><a href="#">Destino</a></li>
                                         <li><a href="#">Otros</a></li>
