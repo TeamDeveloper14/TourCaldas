@@ -55,12 +55,12 @@
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
 </head>
-
 <body>
-
     <div class="colorlib-loader"></div>
-
     <div id="page">
+
+        <!-- Sección  Navbar  principal  [Mauricio: 08-07-20] -->
+        <section>
         <nav class="colorlib-nav" role="navigation">
             <div class="top-menu">
                 <div class="container-fluid">
@@ -82,6 +82,7 @@
                                 </li>
                                 <li><a href="hotels.html">Hoteles</a></li>
                                 <li><a href="services.html">servicios</a></li>
+                                <li><a href="Restaurantes.html">Restaurantes</a></li>
                                 <li><a href="blog.html">Blog</a></li>
                                 <li><a href="about.html">Acerca De</a></li>
                                 <li><a href="contact.html">Contactenos</a></li>
@@ -91,6 +92,10 @@
                 </div>
             </div>
         </nav>
+        </section>
+
+        <!-- Sección aside contenedor de imagenes  Carrusel Banner Principal  [Mauricio: 08-07-20]  -->
+        <section>
         <aside id="colorlib-hero">
             <div class="flexslider">
                 <ul class="slides">
@@ -149,213 +154,217 @@
                 </ul>
             </div>
         </aside>
-        <div id="colorlib-reservation">
-            <!-- <div class="container"> -->
-            <div class="row">
-                <div class="search-wrap">
-                    <div class="container">
-                        <ul class="nav nav-tabs">
-                            <li class="active"><a data-toggle="tab" href="#flight"><i class="fa fa-mountain"></i>
-                                    Finca</a></li>
-                            <li><a data-toggle="tab" href="#hotel"><i class="flaticon-resort"></i> Hotel</a></li>
-                            <li><a data-toggle="tab" href="#car"><i class="fas fa-utensils"></i> Restaurantes</a></li>
-                            <li><a data-toggle="tab" href="#cruises"><i class="fas fa-road"></i></i> Tours</a></li>
-                        </ul>
-                    </div>
-                    <div class="tab-content">
-                        <div id="flight" class="tab-pane fade in active">
-                            <form method="post" class="colorlib-form">
-                                <div class="row">
-                                    <div class="col-md-3">
-                                        <div class="form-group">
-                                            <label for="date">Donde:</label>
-                                            <div class="form-field">
-                                                <input type="text" id="location" class="form-control"
-                                                    placeholder="Buscar ubicación">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2">
-                                        <div class="form-group">
-                                            <label for="date">Fecha registro :</label>
-                                            <div class="form-field">
-                                                <i class="icon icon-calendar2"></i>
-                                                <input type="text" id="date" class="form-control date"
-                                                    placeholder="Fecha">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2">
-                                        <div class="form-group">
-                                            <label for="date">Fecha salida:</label>
-                                            <div class="form-field">
-                                                <i class="icon icon-calendar2"></i>
-                                                <input type="text" id="date" class="form-control date"
-                                                    placeholder="Revisa fecha">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <div class="form-group">
-                                            <label for="guests">Huespedes</label>
-                                            <div class="form-field">
-                                                <i class="icon icon-arrow-down3"></i>
-                                                <select name="people" id="people" class="form-control">
-                                                    <option value="#">1</option>
-                                                    <option value="#">2</option>
-                                                    <option value="#">3</option>
-                                                    <option value="#">4</option>
-                                                    <option value="#">5+</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2">
-                                        <input type="submit" name="submit" id="submit" value="Encontrar Fincas"
-                                            class="btn btn-primary btn-block">
-                                    </div>
-                                </div>
-                            </form>
+        </section>
+        <!-- Sección Filtro Items Principales  [Mauricio: 08-07-20] -->
+    <section>
+            <div id="colorlib-reservation">
+                <!-- <div class="container"> -->
+                <div class="row">
+                    <div class="search-wrap">
+                        <div class="container">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a data-toggle="tab" href="#flight"><i class="fa fa-mountain"></i>Finca</a></li>
+                                <li><a data-toggle="tab" href="#hotel"><i class="flaticon-resort"></i> Hotel</a></li>
+                                <li><a data-toggle="tab" href="#car"><i class="fas fa-utensils"></i> Restaurantes</a></li>
+                                <li><a data-toggle="tab" href="#cruises"><i class="fas fa-road"></i></i> Tours</a></li>
+                            </ul>
                         </div>
-                        <div id="hotel" class="tab-pane fade">
-                            <form method="post" class="colorlib-form">
-                                <div class="row">
-                                    <div class="col-md-2">
-                                        <div class="booknow">
-                                            <h2>Reservar</h2>
-                                            <span>Mejores precios en línea</span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <div class="form-group">
-                                            <label for="date">Registrarse:</label>
-                                            <div class="form-field">
-                                                <i class="icon icon-calendar2"></i>
-                                                <input type="text" id="date" class="form-control date"
-                                                    placeholder="Fecha registro">
+                        <div class="tab-content">
+                            <div id="flight" class="tab-pane fade in active">
+                                <form method="post" class="colorlib-form">
+                                    <div class="row">
+                                        <div class="col-md-3">
+                                            <div class="form-group">
+                                                <label for="date">Donde:</label>
+                                                <div class="form-field">
+                                                    <input type="text" id="location" class="form-control"
+                                                        placeholder="Buscar ubicación">
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <div class="form-group">
-                                            <label for="date">fecha salida:</label>
-                                            <div class="form-field">
-                                                <i class="icon icon-calendar2"></i>
-                                                <input type="text" id="date" class="form-control date"
-                                                    placeholder="Fecha ">
+                                        <div class="col-md-2">
+                                            <div class="form-group">
+                                                <label for="date">Fecha registro :</label>
+                                                <div class="form-field">
+                                                    <i class="icon icon-calendar2"></i>
+                                                    <input type="text" id="date" class="form-control date"
+                                                        placeholder="Fecha">
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-md-2">
-                                        <div class="form-group">
-                                            <label for="guests">Huespedes</label>
-                                            <div class="form-field">
-                                                <i class="icon icon-arrow-down3"></i>
-                                                <select name="people" id="people" class="form-control">
-                                                    <option value="#">1</option>
-                                                    <option value="#">2</option>
-                                                    <option value="#">3</option>
-                                                    <option value="#">4</option>
-                                                    <option value="#">5+</option>
-                                                </select>
+                                        <div class="col-md-2">
+                                            <div class="form-group">
+                                                <label for="date">Fecha salida:</label>
+                                                <div class="form-field">
+                                                    <i class="icon icon-calendar2"></i>
+                                                    <input type="text" id="date" class="form-control date"
+                                                        placeholder="Revisa fecha">
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-md-2">
-                                        <input type="submit" name="submit" id="submit" value="Buscar Hotel"
-                                            class="btn btn-primary btn-block">
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                        <div id="car" class="tab-pane fade">
-                            <form method="post" class="colorlib-form">
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="form-group">
-                                            <label for="date">Donde:</label>
-                                            <div class="form-field">
-                                                <input type="text" id="location" class="form-control"
-                                                    placeholder="Buscar ubicación">
+                                        <div class="col-md-3">
+                                            <div class="form-group">
+                                                <label for="guests">Huespedes</label>
+                                                <div class="form-field">
+                                                    <i class="icon icon-arrow-down3"></i>
+                                                    <select name="people" id="people" class="form-control">
+                                                        <option value="#">1</option>
+                                                        <option value="#">2</option>
+                                                        <option value="#">3</option>
+                                                        <option value="#">4</option>
+                                                        <option value="#">5+</option>
+                                                    </select>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <div class="form-group">
-                                            <label for="date">Fecha inicio:</label>
-                                            <div class="form-field">
-                                                <i class="icon icon-calendar2"></i>
-                                                <input type="text" id="date" class="form-control date"
-                                                    placeholder="Revisar fecha">
-                                            </div>
+                                        <div class="col-md-2">
+                                            <input type="submit" name="submit" id="submit" value="Encontrar Fincas"
+                                                class="btn btn-primary btn-block">
                                         </div>
                                     </div>
-                                    <div class="col-md-3">
-                                        <div class="form-group">
-                                            <label for="date">Fecha regreso:</label>
-                                            <div class="form-field">
-                                                <i class="icon icon-calendar2"></i>
-                                                <input type="text" id="date" class="form-control date"
-                                                    placeholder="Fecha regreso">
+                                </form>
+                            </div>
+                            <div id="hotel" class="tab-pane fade">
+                                <form method="post" class="colorlib-form">
+                                    <div class="row">
+                                        <div class="col-md-2">
+                                            <div class="booknow">
+                                                <h2>Reservar</h2>
+                                                <span>Mejores precios en línea</span>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-md-2">
-                                        <input type="submit" name="submit" id="submit" value="Encontrar vehiculo"
-                                            class="btn btn-primary btn-block">
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                        <div id="cruises" class="tab-pane fade">
-                            <form method="post" class="colorlib-form">
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="form-group">
-                                            <label for="date">Donde:</label>
-                                            <div class="form-field">
-                                                <input type="text" id="location" class="form-control"
-                                                    placeholder="Buscar ubicación">
+                                        <div class="col-md-3">
+                                            <div class="form-group">
+                                                <label for="date">Registrarse:</label>
+                                                <div class="form-field">
+                                                    <i class="icon icon-calendar2"></i>
+                                                    <input type="text" id="date" class="form-control date"
+                                                        placeholder="Fecha registro">
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <div class="form-group">
-                                            <label for="date">Fecha inicio:</label>
-                                            <div class="form-field">
-                                                <i class="icon icon-calendar2"></i>
-                                                <input type="text" id="date" class="form-control date"
-                                                    placeholder="Fecha inicio">
+                                        <div class="col-md-3">
+                                            <div class="form-group">
+                                                <label for="date">fecha salida:</label>
+                                                <div class="form-field">
+                                                    <i class="icon icon-calendar2"></i>
+                                                    <input type="text" id="date" class="form-control date"
+                                                        placeholder="Fecha ">
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <div class="form-group">
-                                            <label for="guests">Categorias</label>
-                                            <div class="form-field">
-                                                <i class="icon icon-arrow-down3"></i>
-                                                <select name="category" id="category" class="form-control">
-                                                    <option value="#">Suite</option>
-                                                    <option value="#">Super de lujo</option>
-                                                    <option value="#">Con balcon</option>
-                                                    <option value="#">Económica</option>
-                                                    <option value="#">De Lujo</option>
-                                                </select>
+                                        <div class="col-md-2">
+                                            <div class="form-group">
+                                                <label for="guests">Huespedes</label>
+                                                <div class="form-field">
+                                                    <i class="icon icon-arrow-down3"></i>
+                                                    <select name="people" id="people" class="form-control">
+                                                        <option value="#">1</option>
+                                                        <option value="#">2</option>
+                                                        <option value="#">3</option>
+                                                        <option value="#">4</option>
+                                                        <option value="#">5+</option>
+                                                    </select>
+                                                </div>
                                             </div>
                                         </div>
+                                        <div class="col-md-2">
+                                            <input type="submit" name="submit" id="submit" value="Buscar Hotel"
+                                                class="btn btn-primary btn-block">
+                                        </div>
                                     </div>
-                                    <div class="col-md-2">
-                                        <input type="submit" name="submit" id="submit" value="Encontrar cruceros"
-                                            class="btn btn-primary btn-block">
+                                </form>
+                            </div>
+                            <div id="car" class="tab-pane fade">
+                                <form method="post" class="colorlib-form">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <div class="form-group">
+                                                <label for="date">Donde:</label>
+                                                <div class="form-field">
+                                                    <input type="text" id="location" class="form-control"
+                                                        placeholder="Buscar ubicación">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="form-group">
+                                                <label for="date">Fecha inicio:</label>
+                                                <div class="form-field">
+                                                    <i class="icon icon-calendar2"></i>
+                                                    <input type="text" id="date" class="form-control date"
+                                                        placeholder="Revisar fecha">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="form-group">
+                                                <label for="date">Fecha regreso:</label>
+                                                <div class="form-field">
+                                                    <i class="icon icon-calendar2"></i>
+                                                    <input type="text" id="date" class="form-control date"
+                                                        placeholder="Fecha regreso">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2">
+                                            <input type="submit" name="submit" id="submit" value="Encontrar vehiculo"
+                                                class="btn btn-primary btn-block">
+                                        </div>
                                     </div>
-                                </div>
-                            </form>
+                                </form>
+                            </div>
+                            <div id="cruises" class="tab-pane fade">
+                                <form method="post" class="colorlib-form">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <div class="form-group">
+                                                <label for="date">Donde:</label>
+                                                <div class="form-field">
+                                                    <input type="text" id="location" class="form-control"
+                                                        placeholder="Buscar ubicación">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="form-group">
+                                                <label for="date">Fecha inicio:</label>
+                                                <div class="form-field">
+                                                    <i class="icon icon-calendar2"></i>
+                                                    <input type="text" id="date" class="form-control date"
+                                                        placeholder="Fecha inicio">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="form-group">
+                                                <label for="guests">Categorias</label>
+                                                <div class="form-field">
+                                                    <i class="icon icon-arrow-down3"></i>
+                                                    <select name="category" id="category" class="form-control">
+                                                        <option value="#">Suite</option>
+                                                        <option value="#">Super de lujo</option>
+                                                        <option value="#">Con balcon</option>
+                                                        <option value="#">Económica</option>
+                                                        <option value="#">De Lujo</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2">
+                                            <input type="submit" name="submit" id="submit" value="Encontrar cruceros"
+                                                class="btn btn-primary btn-block">
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </section>
+
     <!-- Carrusel inicial [Mauricio]  -->
     <section>
         <div id="colorlib-hotel" style="padding:0px;">
@@ -487,6 +496,9 @@
 			</div>
 		</div>
 -->
+
+<!-- Seccion Galeria Principal contiene todo el contenido de imagenes de la galeria principal [Mauricio: 08/07/2020] -->
+    <section>
     <div class="colorlib-tour colorlib-light-grey">
         <!--
 			<div class="container">
@@ -605,7 +617,7 @@
             </a>
         </div>
     </div>
-
+    </section>
     <!--
 		<div id="colorlib-blog">
 			<div class="container">
@@ -658,7 +670,6 @@
 			</div>
 		</div>
 -->
-
     <!-- video corporactivo [Mauricio] -->
     <section>
         <div id="colorlib-intro" class="intro-img"
@@ -792,7 +803,6 @@
 								</div>
 							</div>
 						</div>
-
 						<div class="f-tour">
 							<div class="row">
 								<div class="col-md-6 col-md-push-6">
@@ -877,7 +887,6 @@
 				</div>
 			</div>
 		</div> -->
-
     <!--  Seccion video
 <div class="container-fluid fh5co_video_news_bg pb-4">
     <div class="container animate-box fadeIn animated-fast" data-animate-effect="fadeIn">
@@ -885,11 +894,7 @@
             <div class="fh5co_heading fh5co_heading_border_bottom pt-5 pb-2 mb-4  text-white">Video News</div>
         </div>
         <div>
-            <div class="owl-carousel owl-theme owl-loaded owl-drag" id="slider3">
-                
-                
-                
-                
+            <div class="owl-carousel owl-theme owl-loaded owl-drag" id="slider3"> 
             <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1494px;"><div class="owl-item active" style="width: 363.333px; margin-right: 10px;"><div class="item px-2">
                     <div class="fh5co_hover_news_img">
                         <div class="fh5co_hover_news_img_video_tag_position_relative">
@@ -984,7 +989,6 @@
         </div>
     </div>
 </div>
-
 -->
     <!--
 		<div id="colorlib-subscribe" style="background-image: url(images/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
@@ -1009,7 +1013,9 @@
 			</div>
 		</div>
 -->
-    <footer id="colorlib-footer" role="contentinfo">
+<!-- Footer Principal index.php [Mauricio: 08/] -->
+<section>
+<footer id="colorlib-footer" role="contentinfo">
         <div class="container">
             <div class="row row-pb-md">
                 <div class="col-md-3 colorlib-widget">
@@ -1086,12 +1092,11 @@
             </div>
         </div>
     </footer>
+</section>
     </div>
-
     <div class="gototop js-top">
         <a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
     </div>
-
     <!-- jQuery -->
     <script src="js/jquery.min.js"></script>
     <!-- jQuery Easing -->
