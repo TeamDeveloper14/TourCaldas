@@ -74,7 +74,7 @@
                                 <li class="has-dropdown">
                                     <a href="tours.html">Excusiones</a>
                                     <ul class="dropdown">
-                                        <li><a href="#">Destino</a></li>
+                                        <li ><a href="#">Destino</a></li>
                                         <li><a href="#">Otros</a></li>
                                         <li><a href="#">Hoteles</a></li>
                                         <li><a href="#">Reservas</a></li>
@@ -166,7 +166,7 @@
                                 <li class="active"><a data-toggle="tab" href="#flight"><i class="fa fa-mountain"></i>Finca</a></li>
                                 <li><a data-toggle="tab" href="#hotel"><i class="flaticon-resort"></i> Hotel</a></li>
                                 <li><a data-toggle="tab" href="#car"><i class="fas fa-utensils"></i> Restaurantes</a></li>
-                                <li><a data-toggle="tab" href="#cruises"><i class="fas fa-road"></i></i> Tours</a></li>
+                                <li><a data-toggle="tab" href="#cruises"><i class="fas fa-road"></i></i>Excursiones</a></li>
                             </ul>
                         </div>
                         <div class="tab-content">
@@ -518,9 +518,9 @@
                 <span class="desc">
                     <p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i
                                 class="icon-star-full"></i><i class="icon-star-full"></i><i
-                                class="icon-star-full"></i></span> 545 Reviews</p>
-                    <h2>Athens, Greece</h2>
-                    <span class="city">Athens, Greece</span>
+                                class="icon-star-full"></i></span></p>
+                    <h2>Finca Los colores</h2>
+                    <span class="city">Eje cafetero, Colombia</span>
                     <span class="price">$450</span>
                 </span>
             </a>
@@ -531,9 +531,9 @@
                 <span class="desc">
                     <p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i
                                 class="icon-star-full"></i><i class="icon-star-full"></i><i
-                                class="icon-star-full"></i></span> 545 Reviews</p>
-                    <h2>Family Tour in Thailand</h2>
-                    <span class="city">Athens, Greece</span>
+                                class="icon-star-full"></i></span></p>
+                    <h2>finca Rosario</h2>
+                    <span class="city">Eje cafetero, Colombia</span>
                     <span class="price">$450</span>
                 </span>
             </a>
@@ -544,9 +544,9 @@
                 <span class="desc">
                     <p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i
                                 class="icon-star-full"></i><i class="icon-star-full"></i><i
-                                class="icon-star-full"></i></span> 545 Reviews</p>
-                    <h2>Family Tour in Philippines</h2>
-                    <span class="city">Lipa, Philippines</span>
+                                class="icon-star-full"></i></span></p>
+                    <h2>Finca Esperanza</h2>
+                    <span class="city">Eje cafetero, Colombia</span>
                     <span class="price">$450</span>
                 </span>
             </a>
@@ -557,9 +557,9 @@
                 <span class="desc">
                     <p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i
                                 class="icon-star-full"></i><i class="icon-star-full"></i><i
-                                class="icon-star-full"></i></span> 545 Reviews</p>
-                    <h2>Family Tour in Greece</h2>
-                    <span class="city">Athens, Greece</span>
+                                class="icon-star-full"></i></span></p>
+                    <h2>Finca el tesoro</h2>
+                    <span class="city">Eje cafetero, Colombia</span>
                     <span class="price">$450</span>
                 </span>
             </a>
@@ -570,9 +570,9 @@
                 <span class="desc">
                     <p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i
                                 class="icon-star-full"></i><i class="icon-star-full"></i><i
-                                class="icon-star-full"></i></span> 545 Reviews</p>
-                    <h2>Family Tour in Greece</h2>
-                    <span class="city">Athens, Greece</span>
+                                class="icon-star-full"></i></span></p>
+                    <h2>Finca Laura</h2>
+                    <span class="city">Eje cafetero, Colombia</span>
                     <span class="price">$450</span>
                 </span>
             </a>
@@ -583,8 +583,8 @@
                 <span class="desc">
                     <p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i
                                 class="icon-star-full"></i><i class="icon-star-full"></i><i
-                                class="icon-star-full"></i></span> 545 Reviews</p>
-                    <h2>Family Tour in Greece</h2>
+                                class="icon-star-full"></i></span></p>
+                    <h2>Finca Alto Bonito</h2>
                     <span class="city">Athens, Greece</span>
                     <span class="price">$450</span>
                 </span>
@@ -597,8 +597,8 @@
                     <p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i
                                 class="icon-star-full"></i><i class="icon-star-full"></i><i
                                 class="icon-star-full"></i></span> 545 Reviews</p>
-                    <h2>Family Tour in Greece</h2>
-                    <span class="city">Athens, Greece</span>
+                    <h2>Finca el palacio</h2>
+                    <span class="city">Eje cafetero, Colombia</span>
                     <span class="price">$450</span>
                 </span>
             </a>
@@ -609,8 +609,8 @@
                 <span class="desc">
                     <p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i
                                 class="icon-star-full"></i><i class="icon-star-full"></i><i
-                                class="icon-star-full"></i></span> 545 Reviews</p>
-                    <h2>Family Tour in Greece</h2>
+                                class="icon-star-full"></i></span></p>
+                    <h2>Finca caleñita</h2>
                     <span class="city">Athens, Greece</span>
                     <span class="price">$450</span>
                 </span>
@@ -693,7 +693,7 @@
                                 </div>
                                 <div class="text-rights">
                                     <h3 class="title">Date prisa oferta limitada!</h3>
-                                    <p>Las mejores ofertas en alojamientos tors y alimentacion</p>
+                                    <p>Las mejores ofertas en alojamientos excursiones y alimentación</p>
                                     <!-- <p><a href="#" class="btn btn-primary">Book Now</a> <a href="#" class="btn btn-primary btn-outline">Read more</a></p> -->
                                 </div>
                             </div>
@@ -1019,9 +1019,8 @@
         <div class="container">
             <div class="row row-pb-md">
                 <div class="col-md-3 colorlib-widget">
-                    <h4>Tour Agency</h4>
-                    <p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta
-                        adipisci architecto culpa amet.</p>
+                    <h4>Agencia de turismo</h4>
+                    <p>La mejor opción para vivir tu mejor experiencia en el eje cafetero.</p>
                     <p>
                         <ul class="colorlib-social-icons">
                             <li><a href="#"><i class="icon-twitter"></i></a></li>
@@ -1031,47 +1030,44 @@
                         </ul>
                     </p>
                 </div>
-                <div class="col-md-2 colorlib-widget">
-                    <h4>Book Now</h4>
+                <div class="col-md-3 colorlib-widget">
+                    <h4>Reserva ahora</h4>
                     <p>
                         <ul class="colorlib-footer-links">
-                            <li><a href="#">Flight</a></li>
-                            <li><a href="#">Hotels</a></li>
-                            <li><a href="#">Tour</a></li>
-                            <li><a href="#">Car Rent</a></li>
-                            <li><a href="#">Beach &amp; Resorts</a></li>
-                            <li><a href="#">Cruises</a></li>
+                            <li><a href="./index.php">Finca</a></li>
+                            <li><a href="./hotels.html">Hotel</a></li>
+                            <li><a href="./restaurantes.html">Restaurantes</a></li>
+                            <li><a href="./Tours.html">Excursiones</a></li>
                         </ul>
                     </p>
                 </div>
-                <div class="col-md-2 colorlib-widget">
-                    <h4>Top Deals</h4>
+                <div class="col-md-3 colorlib-widget">
+                    <h4>Ofertas principales</h4>
                     <p>
                         <ul class="colorlib-footer-links">
-                            <li><a href="#">Edina Hotel</a></li>
-                            <li><a href="#">Quality Suites</a></li>
-                            <li><a href="#">The Hotel Zephyr</a></li>
-                            <li><a href="#">Da Vinci Villa</a></li>
-                            <li><a href="#">Hotel Epikk</a></li>
+                            <li><a href="#">Finca El Cielo</a></li>
+                            <li><a href="#">Finca La Pajita</a></li>
+                            <li><a href="#">Finca El Encanto</a></li>
+                            <li><a href="#">Tours Eje Cafetero</a></li>
                         </ul>
                     </p>
                 </div>
-                <div class="col-md-2">
+                <!-- <div class="col-md-2">
                     <h4>Blog Post</h4>
                     <ul class="colorlib-footer-links">
                         <li><a href="#">The Ultimate Packing List For Female Travelers</a></li>
                         <li><a href="#">How These 5 People Found The Path to Their Dream Trip</a></li>
                         <li><a href="#">A Definitive Guide to the Best Dining and Drinking Venues in the City</a></li>
                     </ul>
-                </div>
+                </div> -->
 
                 <div class="col-md-3 col-md-push-1">
                     <h4>Contact Information</h4>
                     <ul class="colorlib-footer-links">
-                        <li>291 South 21th Street, <br> Suite 721 New York NY 10016</li>
-                        <li><a href="tel://1234567920">+ 1235 2355 98</a></li>
-                        <li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-                        <li><a href="#">yoursite.com</a></li>
+                        <li>Medellin <br> Antioquia</li>
+                        <li><a href="tel://1234567920">+350 6686908</a></li>
+                        <li><a href="mailto:info@yoursite.com">developersmr3@gmail.com</a></li>
+                        <li><a href="./contact.html">nombreDelSitio.com</a></li>
                     </ul>
                 </div>
             </div>
