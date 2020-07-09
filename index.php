@@ -80,9 +80,9 @@
                                         <li><a href="#">Reservas</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="hotels.html">Hoteles</a></li>
+                                <li><a href="hotel-room.html">Hoteles</a></li>
+                                <li><a href="Restaurantes.html">Restaurantes</a></li>s
                                 <li><a href="services.html">servicios</a></li>
-                                <li><a href="Restaurantes.html">Restaurantes</a></li>
                                 <li><a href="blog.html">Blog</a></li>
                                 <li><a href="about.html">Acerca De</a></li>
                                 <li><a href="contact.html">Contactenos</a></li>
